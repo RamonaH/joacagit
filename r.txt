@@ -1,1 +1,1 @@
-echo "ce vreau eu"
+echo "ce vreau eu sa fac"
