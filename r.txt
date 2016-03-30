@@ -1,1 +1,2 @@
 echo "ce vreau eu sa fac"
+echo "pur si simplu"
